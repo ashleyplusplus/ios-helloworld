@@ -29,4 +29,10 @@ class helloworldUITestsLaunchTests: XCTestCase {
         attachment.lifetime = .keepAlways
         add(attachment)
     }
+    
+//    func testOutput() throws {
+//        let app = XCUIApplication()
+//        app.launch()
+//        
+//    }
 }
